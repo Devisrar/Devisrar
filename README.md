@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Israr</h1>
 <h3 align="center">A passionate Full Stack Engineer</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" style="width: 300px; height: auto;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devisrar&label=Profile%20views&color=0e75b6&style=flat" alt="devisrar" /> </p>
 
