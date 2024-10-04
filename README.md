@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Israr</h1>
+<h1 align="start">Hi 👋, I'm Muhammad Israr</h1>
 <h3 align="start">A passionate Full Stack Engineer</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" style="width: 300px; height: auto;">
 
